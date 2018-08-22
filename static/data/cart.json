@@ -1,0 +1,32 @@
+{
+	"allShops":{
+		"totalMoney":0,
+		"shopList":[
+			{
+				"shopId":"1",
+				"shopName":"复古眼镜框男韩版平光镜女潮半框圆脸可配近视架防辐射眼睛框成品",
+				"shopPrice":198,
+				"shopNumber":1,
+				"shopImage":"./static/images/item-img.jpg"
+			},{
+				"shopId":"2",
+				"shopName":"原宿bf港风九分裤男夏季薄款直简宽松休闲裤子韩版潮流9分阔腿裤",
+				"shopPrice":65,
+				"shopNumber":1,
+				"shopImage":"./static/images/item-img2.jpg"
+			},{
+				"shopId":"3",
+				"shopName":"单肩包男大容量斜挎包休闲学生胸包男士包包牛津布运动潮牌小背包",
+				"shopPrice":99,
+				"shopNumber":1,
+				"shopImage":"./static/images/item-img3.jpg"
+			},{
+				"shopId":"3",
+				"shopName":"单肩包男大容量斜挎包休闲学生胸包男士包包牛津布运动潮牌小背包",
+				"shopPrice":99,
+				"shopNumber":1,
+				"shopImage":"./static/images/item-img4.jpg"
+			}
+		]
+	}
+}

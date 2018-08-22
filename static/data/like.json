@@ -1,0 +1,36 @@
+{
+	"data":[
+		{
+			"img":"./static/images/like1.jpg",
+			"name":"云来斯堡酒店",
+			"title":"[兴盛路/猎德]周六日自助晚餐，有海鲜，精品菜，烤肉，WiFi",
+			"price":"198",
+			"rest":"已售15513"
+		},
+		{
+			"img":"./static/images/like2.jpg",
+			"name":"芒果捞",
+			"title":"[广州等]榴莲千层蛋糕1个，享受甜蜜滋味",
+			"price":"105",
+			"rest":"已售18986"
+		},{
+			"img":"./static/images/like3.jpg",
+			"name":"大长今韩国料理",
+			"title":"[广州等]大长今韩国料理8人套餐，包间免费",
+			"price":"298",
+			"rest":"已售1842"
+		},{
+			"img":"./static/images/like4.jpg",
+			"name":"御峰酒店",
+			"title":"[广州等]【特推】标准双人房钟点房4小时，免费WiFi。",
+			"price":"98",
+			"rest":"已售1139"
+		},{
+			"img":"./static/images/like5.jpg",
+			"name":"茶茶",
+			"title":"[康王路]萌茶茶甜蜜双人休闲套餐",
+			"price":"12",
+			"rest":"已售974"
+		}
+	]
+}
